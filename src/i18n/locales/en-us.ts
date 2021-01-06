@@ -11,4 +11,5 @@ export default {
   '多语言': 'Language',
   '应用程序状态': 'App State',
   '禁止返回上一页': 'Forbid Back Page',
+  '平台': 'Platform',
 }
