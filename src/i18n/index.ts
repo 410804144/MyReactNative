@@ -1,7 +1,9 @@
 import i18next from 'i18next'
 import {initReactI18next} from 'react-i18next'
-import enUs from './locales/en-us'
-import zhTw from './locales/zh-tw'
+// @ts-ignore
+import enUs from './locales/en—us.json'
+// @ts-ignore
+import zhTw from './locales/zh-tw.json'
 import storage from '@/storage'
 
 export enum LANGUAGE {
