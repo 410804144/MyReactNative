@@ -1,3 +1,4 @@
 /ios/Pods/
 /.idea/
 /node_modules/
+/src/i18n/scanner/credential.json
